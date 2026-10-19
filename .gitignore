@@ -24,3 +24,6 @@ dist/
 
 # Variables de entorno
 .env
+
+# Notas personales
+NOTAS.md
